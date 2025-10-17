@@ -1,3 +1,4 @@
+import React from "react";
 import MainButton from "@/components/MainButton";
 import Navbar from "@/components/Navbar";
 
