@@ -1,0 +1,20 @@
+@font-face{
+    src: url(./assets/fonts/Inter-Regular.otf);
+    font-family: "a";
+}
+@font-face{
+    src: url(./assets/fonts/Inter-Light-BETA.otf);
+    font-family: "para";
+}
+
+
+.hero {
+  font-family: "a";
+  font-weight: 600;
+}
+
+
+
+p{
+    font-family: "para";
+}
